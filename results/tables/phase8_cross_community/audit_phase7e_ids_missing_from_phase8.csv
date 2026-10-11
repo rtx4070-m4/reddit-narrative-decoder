@@ -1,0 +1,1 @@
+record_id,id,community,subreddit,date,year,source_file,original_text,topic_clean_text,topic_clean_token_count,topic_1_weight,topic_1_share,topic_2_weight,topic_2_share,topic_3_weight,topic_3_share,topic_4_weight,topic_4_share,topic_5_weight,topic_5_share,topic_6_weight,topic_6_share,topic_7_weight,topic_7_share,topic_8_weight,topic_8_share,dominant_topic,dominant_topic_share

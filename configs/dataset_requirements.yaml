@@ -1,0 +1,37 @@
+﻿dataset_evaluation:
+  research_requirements:
+    text_available: true
+    subreddit_available: true
+    timestamp_available: true
+    post_comment_type_available: true
+
+  preferred_features:
+    title_available: true
+    score_available: true
+    comment_count_available: true
+    parent_comment_available: true
+    link_id_available: true
+
+  analysis_requirements:
+    temporal_analysis: required
+    community_comparison: required
+    emotion_analysis: required
+    sentiment_analysis: required
+    topic_modeling: required
+    narrative_evolution: required
+    linguistic_analysis: required
+
+  computational_constraints:
+    ram_gb: 16
+    gpu_vram_gb: 4
+    preferred_initial_dataset_size: "small_to_medium"
+
+  privacy:
+    usernames_required: false
+    author_ids_required: false
+    direct_identifiers_required: false
+
+  quality_requirements:
+    duplicate_content: minimize
+    deleted_content: exclude_when_possible
+    empty_text: exclude

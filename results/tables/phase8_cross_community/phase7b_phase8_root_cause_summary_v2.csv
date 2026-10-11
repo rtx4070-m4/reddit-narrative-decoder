@@ -1,0 +1,4 @@
+dataset,rows,unique_record_ids,analysis_eligible_nonmissing,analysis_eligible_counts,corpus_version_nonmissing,corpus_version_counts,community_nonmissing,source_file_nonmissing
+current_corpus,4874,4874,4874.0,{'True': 4874},4874.0,{'nlp_v1': 4874},4874,4874.0
+phase7b_reference,4852,4852,4852.0,{'True': 4852},4852.0,{'nlp_v1': 4852},4852,4852.0
+phase8_merged,4874,4874,,,,,4874,

@@ -1,0 +1,2 @@
+test,H_statistic,p_value,epsilon_squared,effect_interpretation,N,groups
+Kruskal-Wallis,54.44388531567423,9.022836027293788e-12,0.010563426142848917,small,4874,4

@@ -1,0 +1,8 @@
+Phase 7M HDBSCAN semantic clustering
+Input: C:\Users\TANUJ\Documents\reddit_narrative_decoder\results\tables\phase7j_nmf\phase7j_cleaned_documents_audit.csv
+Output: C:\Users\TANUJ\Documents\reddit_narrative_decoder\results\tables\phase7m_hdbscan
+Model: sentence-transformers/all-MiniLM-L6-v2
+Device: cuda
+min_cluster_size=30; min_samples=5
+Fit uses unique eligible non-AutoTLDR texts; eligible documents are assigned with approximate_predict.
+Label -1 means HDBSCAN noise/unassigned; it is not a substantive topic.

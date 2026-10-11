@@ -1,0 +1,17 @@
+check,status,detail
+NMF: row count matches corpus,PASS,rows=4026; expected=4026
+NMF: record IDs unique,PASS,rows=4026; unique IDs=4026
+NMF: assigned + unassigned reconcile,PASS,assigned=3838; unassigned=188; rows=4026
+Semantic KMeans: row count matches corpus,PASS,rows=4026; expected=4026
+Semantic KMeans: record IDs unique,PASS,rows=4026; unique IDs=4026
+Semantic KMeans: assigned + unassigned reconcile,PASS,assigned=3874; unassigned=152; rows=4026
+nmf_monthly_topic_prevalence.csv: has rows,PASS,rows=36
+"nmf_monthly_topic_prevalence.csv: share values within [0,1]",PASS,share column=share_of_all_corpus_rows
+semantic_kmeans_monthly_topic_prevalence.csv: has rows,PASS,rows=30
+"semantic_kmeans_monthly_topic_prevalence.csv: share values within [0,1]",PASS,share column=share_of_all_corpus_rows
+Phase 8 phase8_join_audit.csv: readable,PASS,rows=5; columns=3
+Phase 8 phase8_vader_transformer_agreement_by_community.csv: readable,PASS,rows=4; columns=9
+Phase 8 phase8_agreement_community_chisquare.csv: readable,PASS,rows=1; columns=7
+Phase 8 phase8_kruskal_all_years.csv: readable,PASS,rows=25; columns=10
+Phase 8 phase8_pairwise_all_years.csv: readable,PASS,rows=150; columns=15
+Phase 8 phase8_emotion_label_chisquare_all_years.csv: readable,PASS,rows=1; columns=6

@@ -1,0 +1,299 @@
+PHASE 7A — TOPIC REVIEW REPORT
+========================================================================
+
+
+TOPIC 1
+------------------------------------------------------------------------
+Top terms: and, they, are, do, we, for, people, as, it, their, them, just, not, or, about
+
+Representative documents:
+
+  Rank 1 | share=1.0000 | community=todayilearned | year=2016 | record_id=todayilearned_002947
+  sothe ignorant are ignorant newsflash
+
+  Rank 2 | share=1.0000 | community=worldnews | year=2016 | record_id=worldnews_004875
+  we ve been activated unzips
+
+  Rank 3 | share=1.0000 | community=worldnews | year=2016 | record_id=worldnews_004481
+  because they bought everything a year ago
+
+  Rank 4 | share=1.0000 | community=worldnews | year=2016 | record_id=worldnews_004097
+  were they receiving instruction from aghanis too
+
+  Rank 5 | share=1.0000 | community=worldnews | year=2016 | record_id=worldnews_004102
+  either those were some empty hospitals or they are just terrible at making bombs
+
+  Rank 6 | share=1.0000 | community=worldnews | year=2016 | record_id=worldnews_004191
+  russia and putin are hero
+
+  Rank 7 | share=1.0000 | community=worldnews | year=2016 | record_id=worldnews_003925
+  itt russians doing cleanup and failing miserably
+
+  Rank 8 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_001594
+  how long are they free for
+
+Community distribution (mean topic share; dominant-topic %):
+  gaming: mean_share=0.1208; dominant_pct=13.12% (n=1684)
+  science: mean_share=0.2031; dominant_pct=21.05% (n=532)
+  todayilearned: mean_share=0.1709; dominant_pct=18.28% (n=1373)
+  worldnews: mean_share=0.2236; dominant_pct=24.51% (n=1285)
+
+
+TOPIC 2
+------------------------------------------------------------------------
+Top terms: is, this, this is, is this, what, is the, why, my, so, what is, is it, it is, is why, is my, how
+
+Representative documents:
+
+  Rank 1 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_000395
+  this is amazing
+
+  Rank 2 | share=1.0000 | community=todayilearned | year=2016 | record_id=todayilearned_003652
+  this is a paranoid organization
+
+  Rank 3 | share=0.9975 | community=worldnews | year=2016 | record_id=worldnews_003810
+  this is pretty funny
+
+  Rank 4 | share=0.9883 | community=gaming | year=2016 | record_id=gaming_001539
+  jesus this is some twisted criminal minds shit
+
+  Rank 5 | share=0.9872 | community=gaming | year=2016 | record_id=gaming_001625
+  this is why i hate games with radars
+
+  Rank 6 | share=0.9850 | community=todayilearned | year=2016 | record_id=todayilearned_003274
+  larry is a genius
+
+  Rank 7 | share=0.9826 | community=worldnews | year=2016 | record_id=worldnews_004687
+  campaign finance is a balancing act anywhere http iimgurcomo1n5jgif
+
+  Rank 8 | share=0.9825 | community=worldnews | year=2016 | record_id=worldnews_004393
+  meanwhile russian pork export is growing http wwwbloombergcomnewsarticles20160104putinsparksrussiaporkboomasimportbanexpandshogbreeding
+
+Community distribution (mean topic share; dominant-topic %):
+  gaming: mean_share=0.1009; dominant_pct=9.09% (n=1684)
+  science: mean_share=0.1315; dominant_pct=12.59% (n=532)
+  todayilearned: mean_share=0.1053; dominant_pct=9.47% (n=1373)
+  worldnews: mean_share=0.1239; dominant_pct=11.98% (n=1285)
+
+
+TOPIC 3
+------------------------------------------------------------------------
+Top terms: the, of, in, of the, in the, on, on the, one, and, for, from, for the, one of, all, at
+
+Representative documents:
+
+  Rank 1 | share=1.0000 | community=todayilearned | year=2016 | record_id=todayilearned_003571
+  salt of the internet http iimgurcommrmiykfjpg
+
+  Rank 2 | share=1.0000 | community=todayilearned | year=2016 | record_id=todayilearned_003465
+  the trump of religion
+
+  Rank 3 | share=1.0000 | community=todayilearned | year=2016 | record_id=todayilearned_002960
+  the dreamboys
+
+  Rank 4 | share=1.0000 | community=todayilearned | year=2016 | record_id=todayilearned_002642
+  the warsaw pact
+
+  Rank 5 | share=1.0000 | community=todayilearned | year=2016 | record_id=todayilearned_002551
+  one of the more poetic despots
+
+  Rank 6 | share=1.0000 | community=todayilearned | year=2016 | record_id=todayilearned_002439
+  in the laaaaaand of the freeeeeee
+
+  Rank 7 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_001509
+  the epitome of humblebrag
+
+  Rank 8 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_001470
+  the artist s instagram https wwwinstagramcomartofthejackdaw
+
+Community distribution (mean topic share; dominant-topic %):
+  gaming: mean_share=0.1786; dominant_pct=19.12% (n=1684)
+  science: mean_share=0.2206; dominant_pct=26.88% (n=532)
+  todayilearned: mean_share=0.2088; dominant_pct=25.13% (n=1373)
+  worldnews: mean_share=0.2193; dominant_pct=25.45% (n=1285)
+
+
+TOPIC 4
+------------------------------------------------------------------------
+Top terms: was, he, it, it was, my, his, he was, him, good, thought, had, and, did, so, when
+
+Representative documents:
+
+  Rank 1 | share=1.0000 | community=todayilearned | year=2016 | record_id=todayilearned_003304
+  was he iewish
+
+  Rank 2 | share=1.0000 | community=todayilearned | year=2016 | record_id=todayilearned_003377
+  it was just a prank bro
+
+  Rank 3 | share=1.0000 | community=todayilearned | year=2016 | record_id=todayilearned_003198
+  proven it was a fake
+
+  Rank 4 | share=1.0000 | community=todayilearned | year=2016 | record_id=todayilearned_003204
+  and he was nt even black
+
+  Rank 5 | share=1.0000 | community=todayilearned | year=2016 | record_id=todayilearned_003654
+  improvised it was a mass produced item https iimgurcom2c6mnhrjpg issued widely photo source http wwwjaegerplatoonnetother_at_weapons1htm
+
+  Rank 6 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_000466
+  i thought he was going an ocelot impression
+
+  Rank 7 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_000421
+  katsucon settlement
+
+  Rank 8 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_001107
+  half life 2 was okay
+
+Community distribution (mean topic share; dominant-topic %):
+  gaming: mean_share=0.1203; dominant_pct=12.41% (n=1684)
+  science: mean_share=0.0639; dominant_pct=4.70% (n=532)
+  todayilearned: mean_share=0.1443; dominant_pct=16.39% (n=1373)
+  worldnews: mean_share=0.0809; dominant_pct=6.54% (n=1285)
+
+
+TOPIC 5
+------------------------------------------------------------------------
+Top terms: that, is that, is, that the, that is, that was, would, does, take, shit, not, now that, wow, just, pretty
+
+Representative documents:
+
+  Rank 1 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_000754
+  tap that a
+
+  Rank 2 | share=1.0000 | community=todayilearned | year=2016 | record_id=todayilearned_003264
+  lmao that picture
+
+  Rank 3 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_000193
+  that jpg
+
+  Rank 4 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_000429
+  isnt that a cinder block
+
+  Rank 5 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_001423
+  that a drawer
+
+  Rank 6 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_000846
+  ugh that camera work
+
+  Rank 7 | share=0.9944 | community=todayilearned | year=2016 | record_id=todayilearned_002805
+  take that jesuits
+
+  Rank 8 | share=0.9908 | community=worldnews | year=2016 | record_id=worldnews_004474
+  now that s metal
+
+Community distribution (mean topic share; dominant-topic %):
+  gaming: mean_share=0.0863; dominant_pct=7.24% (n=1684)
+  science: mean_share=0.0868; dominant_pct=6.02% (n=532)
+  todayilearned: mean_share=0.0927; dominant_pct=8.38% (n=1373)
+  worldnews: mean_share=0.0833; dominant_pct=7.08% (n=1285)
+
+
+TOPIC 6
+------------------------------------------------------------------------
+Top terms: you, your, if you, if, can, get, do, do you, you can, you have, have, thank you, thank, go, when you
+
+Representative documents:
+
+  Rank 1 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_000304
+  took you long enough
+
+  Rank 2 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_000197
+  fuck you kellogg
+
+  Rank 3 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_000143
+  kept you waiting ha
+
+  Rank 4 | share=1.0000 | community=todayilearned | year=2016 | record_id=todayilearned_003105
+  i m onto you dr evil
+
+  Rank 5 | share=1.0000 | community=todayilearned | year=2014 | record_id=todayilearned_002291
+  thank you based mods
+
+  Rank 6 | share=1.0000 | community=worldnews | year=2016 | record_id=worldnews_004139
+  if you ai nt cheatin you ai nt tryin
+
+  Rank 7 | share=1.0000 | community=worldnews | year=2016 | record_id=worldnews_004215
+  go home un you re drunk
+
+  Rank 8 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_001026
+  uh can you check your privilege thanks
+
+Community distribution (mean topic share; dominant-topic %):
+  gaming: mean_share=0.1254; dominant_pct=15.62% (n=1684)
+  science: mean_share=0.0905; dominant_pct=9.40% (n=532)
+  todayilearned: mean_share=0.0759; dominant_pct=8.23% (n=1373)
+  worldnews: mean_share=0.0601; dominant_pct=5.99% (n=1285)
+
+
+TOPIC 7
+------------------------------------------------------------------------
+Top terms: game, this game, this, me, the game, like, wwwyoutubecomwatch, game is, what game, is this, played, play, want, what, looks
+
+Representative documents:
+
+  Rank 1 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_000101
+  ahhhhh load game
+
+  Rank 2 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_000073
+  https wwwyoutubecomwatch v y1yj4n1fnx0
+
+  Rank 3 | share=1.0000 | community=todayilearned | year=2016 | record_id=todayilearned_002905
+  https wwwyoutubecomwatch v sfkd54ijg7i
+
+  Rank 4 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_000322
+  gorgeous game
+
+  Rank 5 | share=1.0000 | community=worldnews | year=2016 | record_id=worldnews_003943
+  thread theme https wwwyoutubecomwatch v ocw3fbqpqku
+
+  Rank 6 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_000687
+  https wwwyoutubecomwatch v i8xqxkica2i
+
+  Rank 7 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_001179
+  what game fucktard
+
+  Rank 8 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_001103
+  https wwwyoutubecomwatch v ciq7kgjnqz4
+
+Community distribution (mean topic share; dominant-topic %):
+  gaming: mean_share=0.1169; dominant_pct=13.54% (n=1684)
+  science: mean_share=0.0252; dominant_pct=1.32% (n=532)
+  todayilearned: mean_share=0.0392; dominant_pct=1.89% (n=1373)
+  worldnews: mean_share=0.0349; dominant_pct=1.71% (n=1285)
+
+
+TOPIC 8
+------------------------------------------------------------------------
+Top terms: to, be, to be, would, it, to the, going, me, going to, would be, have, could, if, will, who
+
+Representative documents:
+
+  Rank 1 | share=1.0000 | community=worldnews | year=2016 | record_id=worldnews_004582
+  welcome to iran
+
+  Rank 2 | share=1.0000 | community=todayilearned | year=2016 | record_id=todayilearned_003336
+  welcome to econimics 101
+
+  Rank 3 | share=1.0000 | community=science | year=2016 | record_id=science_002075
+  link to paper http pubsacsorgdoiabs101021acsnano5b05647
+
+  Rank 4 | share=1.0000 | community=todayilearned | year=2016 | record_id=todayilearned_002527
+  i used to be blond but now i m blonde
+
+  Rank 5 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_000897
+  superman 64 being able to move
+
+  Rank 6 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_001420
+  ftfy http imgurcomv1qutsd
+
+  Rank 7 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_001538
+  welcome to planetside
+
+  Rank 8 | share=1.0000 | community=gaming | year=2016 | record_id=gaming_000269
+  credit to charborg source video https myoutubecomwatch v pv0isvuq8pi link to channel https myoutubecomchannelucnm3w16dlgpc6nr1xhs5xbw
+
+Community distribution (mean topic share; dominant-topic %):
+  gaming: mean_share=0.1140; dominant_pct=9.86% (n=1684)
+  science: mean_share=0.1709; dominant_pct=18.05% (n=532)
+  todayilearned: mean_share=0.1294; dominant_pct=12.24% (n=1373)
+  worldnews: mean_share=0.1585; dominant_pct=16.73% (n=1285)
+

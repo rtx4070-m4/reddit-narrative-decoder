@@ -1,0 +1,1 @@
+record_id,id,community,subreddit,created_utc,date,year,month,day,hour,text,analysis_text,meta,ups,downs,source_file,is_very_short,is_long_text,is_very_long_text,is_article_like,text_frequency,is_repeated_text,sentence_boundary_count,has_sentence_boundary,corpus_version,analysis_eligible

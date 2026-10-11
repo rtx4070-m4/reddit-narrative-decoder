@@ -1,0 +1,12 @@
+quality_flag,observations,percentage
+placeholder,98,1.9710378117457763
+very_short,486,9.774738535800482
+long_text,37,0.7441673370876911
+very_long_text,10,0.2011263073209976
+article_like,18,0.36202735317779566
+repeated_text,179,3.600160901045857
+has_url,0,0.0
+has_sentence_boundary,0,0.0
+has_punctuation,0,0.0
+has_uppercase,0,0.0
+has_digits,1037,20.856798069187448

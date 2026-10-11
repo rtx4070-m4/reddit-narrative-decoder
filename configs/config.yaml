@@ -1,0 +1,36 @@
+﻿project:
+  name: reddit_narrative_decoder
+  version: "0.1.0"
+  random_seed: 42
+
+paths:
+  raw_data: data/raw
+  processed_data: data/processed
+  external_data: data/external
+  models: models
+  results: results
+  figures: results/figures
+  tables: results/tables
+  reports: results/reports
+  notebooks: notebooks
+
+hardware:
+  device: cuda
+  gpu_enabled: true
+  max_vram_gb: 4
+
+analysis:
+  text_column: text
+  community_column: subreddit
+  timestamp_column: created_utc
+
+privacy:
+  minimize_user_identifiers: true
+  individual_profiling: false
+  mental_health_diagnosis: false
+  sensitive_attribute_inference: false
+
+research:
+  unit_of_analysis: post_or_comment
+  aggregation_level: community_and_time
+  causal_claims: false

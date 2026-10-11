@@ -1,0 +1,16 @@
+Phase 7G audited NMF sensitivity experiment
+Input: C:\Users\TANUJ\Documents\reddit_narrative_decoder\results\tables\phase7e_nmf\phase7e_document_topics_k8.csv
+Input rows: 4026
+Eligible rows: 3972
+Unique cleaned fitting documents: 2925
+Minimum cleaned tokens: 3
+Candidate K: [5, 6, 8, 10]
+min_df: 3
+max_df: 0.8
+max_features: 15000
+ngram_range: (1, 2)
+max_iter: 250
+random_state: 42
+Deduplication scope: unique cleaned text for fitting only
+Negation terms are preserved; all cleaning is topic-model-only.
+Original corpus and Phase 7E/7F outputs were not modified.

@@ -1,0 +1,20 @@
+PHASE 7A — TF-IDF + NMF TOPIC-MODELING BASELINE
+Input file: data\processed\reddit_nlp_corpus.csv
+Documents used: 4874
+Vocabulary size: 5241
+Number of topics: 8
+Reconstruction error: 67.06485185
+Iterations: 135
+Random state: 42
+
+Top terms by topic:
+Topic 1: and, they, are, do, we, for, people, as, it, their, them, just, not, or, about
+Topic 2: is, this, this is, is this, what, is the, why, my, so, what is, is it, it is, is why, is my, how
+Topic 3: the, of, in, of the, in the, on, on the, one, and, for, from, for the, one of, all, at
+Topic 4: was, he, it, it was, my, his, he was, him, good, thought, had, and, did, so, when
+Topic 5: that, is that, is, that the, that is, that was, would, does, take, shit, not, now that, wow, just, pretty
+Topic 6: you, your, if you, if, can, get, do, do you, you can, you have, have, thank you, thank, go, when you
+Topic 7: game, this game, this, me, the game, like, wwwyoutubecomwatch, game is, what game, is this, played, play, want, what, looks
+Topic 8: to, be, to be, would, it, to the, going, me, going to, would be, have, could, if, will, who
+
+Reminder: topics are exploratory clusters of word co-occurrence, not validated categories or psychological traits. Review representative documents before assigning human-readable topic labels.

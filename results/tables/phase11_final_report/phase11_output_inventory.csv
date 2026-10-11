@@ -1,0 +1,8 @@
+output,path,exists,rows
+Phase 11A dictionary,results/tables/phase11a_consolidated_topic_dictionary/phase11a_consolidated_topic_dictionary.csv,True,40
+Phase 11A integration audit,results/tables/phase11a_consolidated_topic_dictionary/phase11a_integration_audit.csv,True,16
+Phase 11B quality audit,results/tables/phase11b_topic_quality_audit/phase11b_topic_quality_audit.csv,True,40
+Phase 11B similar label pairs,results/tables/phase11b_topic_quality_audit/phase11b_similar_label_pairs.csv,True,2
+Phase 11B summary,results/tables/phase11b_topic_quality_audit/phase11b_quality_audit_summary.csv,True,7
+Phase 11C original comparison,results/tables/phase11c_label_comparison/phase11c_label_evidence_comparison.csv,True,4
+Phase 11C provisional assessment draft,results/tables/phase11c_label_comparison/phase11c_fast_assessment_draft.csv,True,4

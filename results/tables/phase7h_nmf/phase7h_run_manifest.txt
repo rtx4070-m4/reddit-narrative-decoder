@@ -1,0 +1,9 @@
+Input: C:\Users\TANUJ\Documents\reddit_narrative_decoder\results\tables\phase7e_nmf\phase7e_document_topics_k8.csv
+Output: C:\Users\TANUJ\Documents\reddit_narrative_decoder\results\tables\phase7h_nmf
+K values: [5, 6, 8, 10]
+Random state: 42
+max_iter: 800
+stopword count: 367
+fit documents: 3972
+unique cleaned texts fitted: 2932
+features: 1854

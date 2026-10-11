@@ -1,0 +1,17 @@
+check,value
+dictionary_rows,40
+revision_groups,40
+evidence_groups,40
+decision_log_groups,40
+output_rows,40
+unique_output_groups,40
+dictionary_groups_missing_revision,0
+dictionary_groups_missing_evidence,0
+dictionary_groups_missing_decision,0
+revision_groups_not_in_dictionary,0
+decision_groups_not_in_dictionary,0
+rows_with_missing_working_label,0
+rows_with_integration_warning,5
+batch_approved_provisional_rows,35
+batch_approved_recommendation_rows,4
+recorded_do_not_label_rows,1

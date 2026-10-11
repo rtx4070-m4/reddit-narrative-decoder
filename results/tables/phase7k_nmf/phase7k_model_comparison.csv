@@ -1,0 +1,5 @@
+variant,ngram_range,k,reconstruction_error,iterations,convergence_warning,fit_unique_texts,fit_vocabulary_size,eligible_documents_transformed,median_dominant_topic_share,mean_dominant_topic_share,dominant_topic_counts
+unigram,"(1, 1)",5,52.10084475931869,172,False,2831,1679,3838,0.7105074503347879,0.7158719527038834,"{1: 428, 2: 288, 3: 388, 4: 2477, 5: 257}"
+unigram,"(1, 1)",6,51.97872539189951,63,False,2831,1679,3838,0.6748101228903469,0.6869678556551898,"{1: 398, 2: 280, 3: 350, 4: 2250, 5: 255, 6: 305}"
+unigram_bigram,"(1, 2)",5,52.142394273445866,41,False,2831,1752,3838,0.6917239978774018,0.7002948718554974,"{1: 2147, 2: 331, 3: 613, 4: 381, 5: 366}"
+unigram_bigram,"(1, 2)",6,52.010763268764826,91,False,2831,1752,3838,0.647370237563589,0.662885804364826,"{1: 2013, 2: 311, 3: 436, 4: 310, 5: 369, 6: 399}"

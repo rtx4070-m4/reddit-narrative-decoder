@@ -1,0 +1,12 @@
+metric,value
+model_name,sentence-transformers/all-MiniLM-L6-v2
+device,cuda
+fit_unique_texts,2831
+eligible_documents_assigned,3874
+min_cluster_size,30
+min_samples,5
+number_of_fit_clusters_excluding_noise,4
+fit_noise_share,0.8004238784881668
+assigned_noise_share,0.8012390294269489
+mean_membership_strength,0.1975775760514264
+cluster_counts_assigned,"{-1: 3104, 0: 67, 1: 67, 2: 440, 3: 196}"

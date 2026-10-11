@@ -1,0 +1,11 @@
+audit_month,topic,topic_records,model
+2016-02,Topic 1,2088,NMF
+2016-02,Topic 2,330,NMF
+2016-02,Topic 3,592,NMF
+2016-02,Topic 4,367,NMF
+2016-02,Topic 5,341,NMF
+2016-02,Topic 1,1125,Semantic_KMeans
+2016-02,Topic 2,674,Semantic_KMeans
+2016-02,Topic 3,687,Semantic_KMeans
+2016-02,Topic 4,472,Semantic_KMeans
+2016-02,Topic 5,794,Semantic_KMeans

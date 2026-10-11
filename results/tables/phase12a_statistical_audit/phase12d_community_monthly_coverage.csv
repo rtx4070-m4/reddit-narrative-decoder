@@ -1,0 +1,27 @@
+model,community,month,corpus_rows,assigned_rows,unique_record_ids,unassigned_rows,assignment_coverage
+NMF,gaming,2016-02,1339,1267,1339,72,0.9462285287528006
+NMF,science,2015-10,40,38,40,2,0.95
+NMF,science,2016-01,37,37,37,0,1.0
+NMF,science,2016-02,390,377,390,13,0.9666666666666667
+NMF,todayilearned,2014-10,6,6,6,0,1.0
+NMF,todayilearned,2014-11,11,11,11,0,1.0
+NMF,todayilearned,2014-12,4,3,4,1,0.75
+NMF,todayilearned,2015-01,3,3,3,0,1.0
+NMF,todayilearned,2015-02,3,2,3,1,0.6666666666666666
+NMF,todayilearned,2015-03,7,5,7,2,0.7142857142857143
+NMF,todayilearned,2015-04,16,15,16,1,0.9375
+NMF,todayilearned,2016-02,1083,1038,1083,45,0.9584487534626038
+NMF,worldnews,2016-02,1087,1036,1087,51,0.953081876724931
+Semantic K-means,gaming,2016-02,1339,1275,1339,64,0.9522031366691561
+Semantic K-means,science,2015-10,40,38,40,2,0.95
+Semantic K-means,science,2016-01,37,37,37,0,1.0
+Semantic K-means,science,2016-02,390,377,390,13,0.9666666666666667
+Semantic K-means,todayilearned,2014-10,6,6,6,0,1.0
+Semantic K-means,todayilearned,2014-11,11,11,11,0,1.0
+Semantic K-means,todayilearned,2014-12,4,4,4,0,1.0
+Semantic K-means,todayilearned,2015-01,3,3,3,0,1.0
+Semantic K-means,todayilearned,2015-02,3,2,3,1,0.6666666666666666
+Semantic K-means,todayilearned,2015-03,7,6,7,1,0.8571428571428571
+Semantic K-means,todayilearned,2015-04,16,15,16,1,0.9375
+Semantic K-means,todayilearned,2016-02,1083,1051,1083,32,0.9704524469067405
+Semantic K-means,worldnews,2016-02,1087,1049,1087,38,0.9650413983440662

@@ -1,0 +1,73 @@
+{
+  "phase": "7O",
+  "description": "Exploratory temporal topic prevalence by month and community",
+  "corpus": "C:\\Users\\TANUJ\\Documents\\reddit_narrative_decoder\\results\\tables\\phase7j_nmf\\phase7j_cleaned_documents_audit.csv",
+  "output_dir": "C:\\Users\\TANUJ\\Documents\\reddit_narrative_decoder\\results\\tables\\phase7o_temporal_narratives",
+  "models": [
+    {
+      "model": "nmf",
+      "join_key": "analysis_id",
+      "corpus_rows": 4017,
+      "joined_rows": 4017,
+      "dated_rows": 4017,
+      "topic_assignment_coverage": 0.9554393826238486,
+      "nonnoise_topic_coverage": 0.9554393826238486,
+      "months": [
+        "2014-10",
+        "2014-11",
+        "2014-12",
+        "2015-01",
+        "2015-02",
+        "2015-03",
+        "2015-04",
+        "2015-10",
+        "2016-01",
+        "2016-02"
+      ],
+      "communities": [
+        "gaming",
+        "science",
+        "todayilearned",
+        "worldnews"
+      ],
+      "assignment_file": "C:\\Users\\TANUJ\\Documents\\reddit_narrative_decoder\\results\\tables\\phase7k_nmf\\phase7k_document_topics.csv",
+      "assignment_rows": 15352
+    },
+    {
+      "model": "semantic",
+      "join_key": "analysis_id",
+      "corpus_rows": 4017,
+      "joined_rows": 4017,
+      "dated_rows": 4017,
+      "topic_assignment_coverage": 0.9644012944983819,
+      "nonnoise_topic_coverage": 0.9644012944983819,
+      "months": [
+        "2014-10",
+        "2014-11",
+        "2014-12",
+        "2015-01",
+        "2015-02",
+        "2015-03",
+        "2015-04",
+        "2015-10",
+        "2016-01",
+        "2016-02"
+      ],
+      "communities": [
+        "gaming",
+        "science",
+        "todayilearned",
+        "worldnews"
+      ],
+      "assignment_file": "C:\\Users\\TANUJ\\Documents\\reddit_narrative_decoder\\results\\tables\\phase7l_semantic\\phase7l_document_topics.csv",
+      "assignment_rows": 7748
+    }
+  ],
+  "cautions": [
+    "Topic labels are model-specific and are not directly comparable between NMF and semantic K-means.",
+    "Monthly shares are descriptive, not causal.",
+    "Low monthly counts can make prevalence estimates unstable.",
+    "If assignments are joined by normalized text, identical texts can share an assignment; duplicates remain separate corpus observations.",
+    "The source corpus is concentrated in 2016; avoid claims of long-term temporal evolution without adequate observations."
+  ]
+}

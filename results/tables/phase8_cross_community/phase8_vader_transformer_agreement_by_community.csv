@@ -1,0 +1,5 @@
+community,n,agreement_count,observed_agreement,observed_agreement_percent,cohen_kappa,vader_neutral_n,transformer_neutral_n,confusion_matrix_file
+gaming,1684,1193,0.7084323040380047,70.84323040380048,0.34584505549103317,484,627,phase8_agreement_confusion_gaming.csv
+science,532,336,0.631578947368421,63.1578947368421,0.19087452471482902,119,223,phase8_agreement_confusion_science.csv
+todayilearned,1373,938,0.6831755280407866,68.31755280407866,0.30131149957359604,395,536,phase8_agreement_confusion_todayilearned.csv
+worldnews,1285,871,0.6778210116731518,67.78210116731518,0.24865475602005505,329,455,phase8_agreement_confusion_worldnews.csv

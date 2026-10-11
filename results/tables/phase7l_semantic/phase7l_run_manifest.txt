@@ -1,0 +1,9 @@
+Phase 7L local semantic topic experiment
+Input: C:\Users\TANUJ\Documents\reddit_narrative_decoder\results\tables\phase7j_nmf\phase7j_cleaned_documents_audit.csv
+Output: C:\Users\TANUJ\Documents\reddit_narrative_decoder\results\tables\phase7l_semantic
+Embedding model: sentence-transformers/all-MiniLM-L6-v2
+Device: cpu
+K values: [5, 6]
+Random state: 42
+AutoTLDR source-flagged documents excluded from clustering fit; eligible rows assigned.
+No Reddit or hosted LLM API used by this script.

@@ -1,0 +1,19 @@
+PHASE 7D NMF — PREPROCESSING EXPERIMENT
+Input: C:\Users\TANUJ\Documents\reddit_narrative_decoder\results\tables\nmf_document_topics_k8_v2.csv
+Input rows: 4852
+Eligible after topic-only cleaning (>= 6 tokens): 2676
+Excluded for short cleaned text: 2176
+Eligible but no retained TF-IDF features: 19
+Documents fitted: 2657
+Vocabulary size: 1298
+K: 8
+Iterations: 38
+Reconstruction error: 50.302893
+Random state: 42
+
+Interpretation cautions:
+- Topic-model cleaning is experimental and does not overwrite original text.
+- Generic-word stopword additions may remove meaningful content; inspect topic terms and representatives.
+- NMF topics are lexical mixtures, not validated semantic categories.
+- Compare topic coherence/readability and representative documents against Phase 7C; do not select solely by reconstruction error.
+- Excluded documents remain documented in output files and should not be treated as absent from the source corpus.

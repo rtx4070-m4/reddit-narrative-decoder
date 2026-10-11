@@ -1,0 +1,10 @@
+metric,value
+input_rows,4026
+unique_record_community_keys_after_dedup,4026
+eligible_rows_min_3_tokens,4017
+excluded_rows_short_text,9
+unique_cleaned_texts_eligible,2960
+source_rows_with_autotldr_markers,33
+clean_rows_still_with_autotldr_markers,0
+clean_rows_with_flattened_url_hints,0
+clean_rows_containing_custom_stop_terms,2107

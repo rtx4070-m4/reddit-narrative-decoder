@@ -1,0 +1,41 @@
+model,community,topic,sample_size,available_assigned_examples,unique_texts,duplicate_text_fraction,mean_pairwise_tfidf_similarity,median_pairwise_tfidf_similarity,distinctive_terms,diagnostic_note
+NMF,gaming,Topic 1,20,617,20,0.0,0.005621657761025618,0.0,"game, mario, man, fuck, fucking, hut, need, now, behind, thought",Low lexical similarity; topic may be heterogeneous.
+NMF,gaming,Topic 2,20,279,20,0.0,0.0055282378538881695,0.0,"game, life, going, love, sounds, force, hire, konami, thank, info",Low lexical similarity; topic may be heterogeneous.
+NMF,gaming,Topic 3,20,177,20,0.0,0.002458343905467108,0.0,"guess, yet, gif, someone, https, armor, move, game, requires, potions",Low lexical similarity; topic may be heterogeneous.
+NMF,gaming,Topic 4,20,145,20,0.0,0.003094794099805655,0.0,"game, now, season, pass, expansion, want, map, price, buy, getting",Low lexical similarity; topic may be heterogeneous.
+NMF,gaming,Topic 5,20,49,20,0.0,0.0017873307463662966,0.0,"milla, level, head, room, small, burning, children, finally, remember, boss",Low lexical similarity; topic may be heterogeneous.
+NMF,science,Topic 1,20,238,20,0.0,0.005813710327601436,0.0,"person, bully, age, heart, always, makes, training, exercise, likely, other",Low lexical similarity; topic may be heterogeneous.
+NMF,science,Topic 2,2,2,2,0.0,,,"successful, paper, miss, something, article, discuss, method, here, http, onlinelibrarywileycomezproxyneuedudoi",Too few sampled texts for a stable similarity summary.
+NMF,science,Topic 3,20,62,20,0.0,0.007102505022754416,0.0,"gravity, gravitational, black, dynamic, advanced, dilation, equations, manuscript, page, phys",Low lexical similarity; topic may be heterogeneous.
+NMF,science,Topic 4,20,20,20,0.0,0.003960081615522848,0.0,"minutes, exercise, http, heart, question, science, day, enough, automation, questions",Low lexical similarity; topic may be heterogeneous.
+NMF,science,Topic 5,20,55,20,0.0,0.004948808712273075,0.0,"eating, after, over, light, these, want, less, food, obesity, fat",Low lexical similarity; topic may be heterogeneous.
+NMF,todayilearned,Topic 1,20,585,20,0.0,0.0016263223296448912,0.0,"power, til, high, now, mount, large, interesting, need, salt, never",Low lexical similarity; topic may be heterogeneous.
+NMF,todayilearned,Topic 2,20,26,20,0.0,0.004310355840593587,0.0,"water, pretty, massive, better, climb, dumb, too, right, getting, columbia",Low lexical similarity; topic may be heterogeneous.
+NMF,todayilearned,Topic 3,20,180,20,0.0,0.0019452223447436058,0.0,"never, other, want, gun, father, kyle, scientology, every, kicks, always",Low lexical similarity; topic may be heterogeneous.
+NMF,todayilearned,Topic 4,20,123,20,0.0,0.004868096156713842,0.0,"show, because, said, went, air, job, til, sirhan, over, help",Low lexical similarity; topic may be heterogeneous.
+NMF,todayilearned,Topic 5,20,124,20,0.0,0.007479071434040049,0.0,"brother, house, home, shit, been, anything, anyone, always, corn, art",Low lexical similarity; topic may be heterogeneous.
+NMF,worldnews,Topic 1,20,648,20,0.0,0.0013996236816485783,0.0,"issue, power, been, water, over, wet, india, nations, isnt, drink",Low lexical similarity; topic may be heterogeneous.
+NMF,worldnews,Topic 2,20,23,20,0.0,0.002250480787422519,0.0,"http, russia, turkey, syrian, government, vodka, wwwbbccomnewsworldmiddleeast, wwwtheguardiancomworld, feb, forces",Low lexical similarity; topic may be heterogeneous.
+NMF,worldnews,Topic 3,20,173,20,0.0,0.00502816729674877,0.0,"http, kiribati, war, instead, iran, being, been, these, bot, artificial",Low lexical similarity; topic may be heterogeneous.
+NMF,worldnews,Topic 4,20,79,20,0.0,0.0036891833252088394,0.0,"these, anything, money, children, before, fuck, back, say, etc, fucking",Low lexical similarity; topic may be heterogeneous.
+NMF,worldnews,Topic 5,20,113,20,0.0,0.002307012996835815,0.0,"https, zfgo, videos, http, youtubecomwatch, redditcomrworldnewscomments, context, jong, hans, porn",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,gaming,Topic 1,20,492,20,0.0,0.004126793487899952,0.0,"game, remember, before, see, need, fallout, every, guy, dodo, check",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,gaming,Topic 2,13,13,13,0.0,0.01281496209941243,0.0,"game, several, lupe, head, over, rdnd, friend, serious, serial, killer",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,gaming,Topic 3,20,644,20,0.0,0.0029983729358548025,0.0,"game, always, around, beat, enjoy, buy, post, played, water, been",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,gaming,Topic 4,20,61,20,0.0,0.0071071203926820585,0.0,"game, around, soldier, snake, turret, kill, looks, believe, day, xbox",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,gaming,Topic 5,20,65,20,0.0,0.002561460483614285,0.0,"been, best, last, spyro, cover, almost, wrong, try, enemy, off",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,science,Topic 1,18,18,18,0.0,0.0065533976761514645,0.0,"likely, effect, human, because, cholesterol, around, see, may, world, money",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,science,Topic 2,4,4,4,0.0,0.008774682122421697,0.0,"new, years, insurance, car, takes, giant, always, makes, sand, brought",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,science,Topic 3,2,2,2,0.0,,,"successful, anyone, give, summary, practical, methods, taught, feel, tool, parents",Too few sampled texts for a stable similarity summary.
+Semantic_KMeans,science,Topic 4,20,220,20,0.0,0.004749407802749521,0.0,"sugar, less, heart, day, these, take, science, information, article, cells",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,science,Topic 5,20,133,20,0.0,0.006657281556289419,0.0,"output, always, over, though, same, triglycerides, because, transistor, capacitance, see",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,todayilearned,Topic 1,20,458,20,0.0,0.0023575388228604887,0.0,"those, being, too, because, mount, minivans, modification, other, without, star",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,todayilearned,Topic 2,20,109,20,0.0,0.005527567584529533,0.0,"money, kyle, business, found, committed, apartment, before, fire, shit, father",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,todayilearned,Topic 3,20,24,20,0.0,0.003518370148257275,0.0,"esquivel, http, lists, goya, experiment, tail, claims, men, equipment, always",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,todayilearned,Topic 4,20,83,20,0.0,0.003080867820261016,0.0,"life, star, distance, naval, free, actually, nice, maybe, won, imagine",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,todayilearned,Topic 5,20,377,20,0.0,0.0036944874735515745,0.0,"work, always, thought, actually, live, geothermal, water, silencer, loudener, makes",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,worldnews,Topic 1,20,157,20,0.0,0.004884417363388345,0.0,"http, turkey, been, war, article, syrian, russia, https, air, while",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,worldnews,Topic 2,20,548,20,0.0,0.0029460039418486785,0.0,"http, budget, cold, oil, european, kids, porn, saudi, research, bot",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,worldnews,Topic 3,17,17,17,0.0,0.0032969080026067467,0.0,"countries, seems, lot, sort, because, other, going, fucking, big, take",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,worldnews,Topic 4,20,108,20,0.0,0.004386186336523819,0.0,"http, bot, npredditcomrautotldrcomments, autotldr, quot, israel, netanyahu, germany, feedback, coalition",Low lexical similarity; topic may be heterogeneous.
+Semantic_KMeans,worldnews,Topic 5,20,219,20,0.0,0.002586974470732894,0.0,"been, oil, years, prices, deal, goods, transporting, production, level, opec",Low lexical similarity; topic may be heterogeneous.

@@ -1,0 +1,86 @@
+﻿schema:
+  required_columns:
+    - id
+    - text
+    - subreddit
+    - created_utc
+    - type
+
+  optional_columns:
+    - title
+    - score
+    - num_comments
+    - parent_id
+    - link_id
+
+  column_definitions:
+    id:
+      description: Unique identifier for the Reddit post or comment
+      type: string
+
+    text:
+      description: Text content used for NLP analysis
+      type: string
+
+    subreddit:
+      description: Reddit community identifier
+      type: string
+
+    created_utc:
+      description: UTC timestamp of the post or comment
+      type: datetime
+
+    type:
+      description: Reddit content type
+      allowed_values:
+        - post
+        - comment
+
+    title:
+      description: Post title when available
+      type: string
+
+    score:
+      description: Reddit score when available
+      type: numeric
+
+    num_comments:
+      description: Number of comments associated with a post when available
+      type: numeric
+
+    parent_id:
+      description: Parent comment identifier when available
+      type: string
+
+    link_id:
+      description: Linked submission identifier when available
+      type: string
+
+data_quality:
+  text:
+    allow_missing: false
+    minimum_characters: 3
+
+  subreddit:
+    allow_missing: false
+
+  created_utc:
+    allow_missing: false
+
+  type:
+    allow_missing: false
+
+privacy:
+  retain_usernames: false
+  retain_author_ids: false
+  retain_direct_identifiers: false
+
+analysis_unit:
+  primary: post_or_comment
+  aggregation:
+    - community
+    - time
+
+timestamp:
+  source_timezone: UTC
+  analysis_timezone: UTC

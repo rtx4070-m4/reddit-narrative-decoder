@@ -1,0 +1,41 @@
+﻿model,community,topic,suggested_label,available_texts,mean_label_similarity,median_label_similarity,min_label_similarity,max_label_similarity,sd_label_similarity,lower_similarity_count,intermediate_similarity_count,higher_similarity_count,total_sampled_rows,empty_text_rows,lower_similarity_share,evidence_review_priority
+NMF,gaming,Topic 1,Gameplay experiences and item use,20,0.10253873,0.07614149,-0.036916547,0.29318595,0.097968124,15,5,0,20,0,0.75,many examples have lower label similarity
+NMF,gaming,Topic 2,Mixed gaming references and commentary,20,0.122610986,0.10518277,-0.048651174,0.49996477,0.12542044,16,3,1,20,0,0.8,many examples have lower label similarity
+NMF,gaming,Topic 3,"Reposts, GIFs, and shared gaming content",20,0.14380844,0.12561288,-0.0049290312,0.37792563,0.10938924,16,3,1,20,0,0.8,many examples have lower label similarity
+NMF,gaming,Topic 4,Game characters and gameplay reactions,20,0.09722475,0.09418228,-0.027243234,0.31073982,0.07063132,19,1,0,20,0,0.95,many examples have lower label similarity
+NMF,gaming,Topic 5,General gaming discussion and reactions,20,0.11350377,0.10717131,0.003597714,0.2674003,0.08299745,17,3,0,20,0,0.85,many examples have lower label similarity
+NMF,science,Topic 1,General science and technology discussion,20,0.06398995,0.04789676,-0.13751534,0.26168334,0.101841465,18,2,0,20,0,0.9,many examples have lower label similarity
+NMF,science,Topic 2,Scientific paper sharing,2,0.16283584,0.16283584,0.067687824,0.25798386,0.13455962,1,1,0,2,0,0.5,small sample: inspect every example
+NMF,science,Topic 3,Gravity and gravitational phenomena,20,0.033515535,0.005555068,-0.08173719,0.44667637,0.114190236,19,0,1,20,0,0.95,many examples have lower label similarity
+NMF,science,Topic 4,Automation and employment,20,0.10013412,0.04218744,-0.032636344,0.59413165,0.17684492,17,1,2,20,0,0.85,many examples have lower label similarity
+NMF,science,Topic 5,Scientific evidence and interpretation,20,0.14340062,0.14758508,-0.02210975,0.3402452,0.10360755,14,6,0,20,0,0.7,many examples have lower label similarity
+NMF,todayilearned,Topic 1,Factual information and reactions,20,0.11734398,0.10139887,-0.013809333,0.24604234,0.069577105,16,4,0,20,0,0.8,many examples have lower label similarity
+NMF,todayilearned,Topic 2,Technology references and general reactions,20,0.01125353,-0.000110184774,-0.10441704,0.19158036,0.084402815,20,0,0,20,0,1.0,many examples have lower label similarity
+NMF,todayilearned,Topic 3,Short conversational reactions,20,0.06557285,0.0510322,-0.13365683,0.27141204,0.09156801,18,2,0,20,0,0.9,many examples have lower label similarity
+NMF,todayilearned,Topic 4,Political and social commentary,20,0.069246545,0.07620415,-0.08745419,0.26915228,0.0823669,19,1,0,20,0,0.95,many examples have lower label similarity
+NMF,todayilearned,Topic 5,"Art, intelligence, and other discussions",20,0.08563199,0.053294815,-0.031360865,0.47581318,0.116173655,18,1,1,20,0,0.9,many examples have lower label similarity
+NMF,worldnews,Topic 1,General reactions to news,20,0.13524373,0.12781832,0.003992934,0.2998711,0.08088676,16,4,0,20,0,0.8,many examples have lower label similarity
+NMF,worldnews,Topic 2,"Russia, Syria, and international affairs",20,0.13039154,0.08406862,-0.17554922,0.60685235,0.18579186,14,4,2,20,0,0.7,many examples have lower label similarity
+NMF,worldnews,Topic 3,"Syria, Turkey, and regional conflict",20,0.15074258,0.15994838,-0.10956784,0.4100539,0.14522623,10,9,1,20,0,0.5,many examples have lower label similarity
+NMF,worldnews,Topic 4,General news discussion and reactions,20,0.10590919,0.10047844,-0.048528634,0.33984986,0.08606066,18,2,0,20,0,0.9,many examples have lower label similarity
+NMF,worldnews,Topic 5,"Geography, politics, and online commentary",20,0.10886508,0.08344026,-0.052193534,0.51755404,0.12444842,16,3,1,20,0,0.8,many examples have lower label similarity
+Semantic KMeans,gaming,Topic 1,"Video-game titles, missions, and gameplay",20,0.124544576,0.11076134,-0.029169558,0.3725797,0.109800585,15,4,1,20,0,0.75,many examples have lower label similarity
+Semantic KMeans,gaming,Topic 2,Game character and narrative reactions,13,0.17305066,0.1371707,0.019487359,0.41451502,0.12711394,7,5,1,13,0,0.5384615384615384,many examples have lower label similarity
+Semantic KMeans,gaming,Topic 3,Gameplay clips and combat reactions,20,0.1512194,0.15295501,-0.03398209,0.32526553,0.104298666,14,6,0,20,0,0.7,many examples have lower label similarity
+Semantic KMeans,gaming,Topic 4,Mixed gaming and general discussion,20,0.11244211,0.10614687,-0.062157955,0.27127615,0.10810188,14,6,0,20,0,0.7,many examples have lower label similarity
+Semantic KMeans,gaming,Topic 5,Spyro and other game references,20,0.14021575,0.10954156,-0.02726149,0.6524383,0.1414573,16,3,1,20,0,0.8,many examples have lower label similarity
+Semantic KMeans,science,Topic 1,"Automation, employment, and related discussion",18,0.12404471,0.06110681,-0.09064342,0.58649254,0.2014421,14,1,3,18,0,0.7777777777777778,many examples have lower label similarity
+Semantic KMeans,science,Topic 2,"Paleontology, climate history, and transport policy",4,0.12916674,0.14861958,-0.109309494,0.3287373,0.20024638,2,2,0,4,0,0.5,small sample: inspect every example
+Semantic KMeans,science,Topic 3,Requests for explanations and summaries,2,0.30113783,0.30113783,0.25707492,0.34520075,0.06231437,0,2,0,2,0,0.0,small sample: inspect every example
+Semantic KMeans,science,Topic 4,Health and scientific discussion,20,0.12399771,0.10462601,-0.03721201,0.37508857,0.10012959,16,3,1,20,0,0.8,many examples have lower label similarity
+Semantic KMeans,science,Topic 5,"Health, science, and community information",20,0.11804469,0.11091314,-0.007927168,0.25887352,0.069053516,18,2,0,20,0,0.9,many examples have lower label similarity
+Semantic KMeans,todayilearned,Topic 1,Factual posts and general reactions,20,0.096601106,0.086896256,-0.040091332,0.2464942,0.088725455,18,2,0,20,0,0.9,many examples have lower label similarity
+Semantic KMeans,todayilearned,Topic 2,Historical and cultural discussion,20,0.05617086,0.04659289,-0.037309945,0.23716617,0.0765438,19,1,0,20,0,0.95,many examples have lower label similarity
+Semantic KMeans,todayilearned,Topic 3,Art and history references,20,0.07148737,0.034217127,-0.05682729,0.39384782,0.114770964,18,1,1,20,0,0.9,many examples have lower label similarity
+Semantic KMeans,todayilearned,Topic 4,Historical facts and reactions,20,0.12328348,0.1189532,-0.054966252,0.47386035,0.13871358,14,5,1,20,0,0.7,many examples have lower label similarity
+Semantic KMeans,todayilearned,Topic 5,"Government, culture, and general discussion",20,0.035005413,0.031777963,-0.081491515,0.22262351,0.07818971,19,1,0,20,0,0.95,many examples have lower label similarity
+Semantic KMeans,worldnews,Topic 1,Corporate criticism and political commentary,20,0.08736942,0.08962285,-0.03644201,0.24343391,0.07117296,19,1,0,20,0,0.95,many examples have lower label similarity
+Semantic KMeans,worldnews,Topic 2,"Government, accountability, and international affairs",20,0.09997381,0.12076773,-0.11839529,0.32204652,0.11404668,16,4,0,20,0,0.8,many examples have lower label similarity
+Semantic KMeans,worldnews,Topic 3,North Korea and sanctions,17,0.21786536,0.18254313,0.04325875,0.8211563,0.17079149,10,6,1,17,0,0.5882352941176471,many examples have lower label similarity
+Semantic KMeans,worldnews,Topic 4,"Russia, conflict, and geopolitics",20,0.09455961,0.11909324,-0.060851373,0.21494675,0.08022477,19,1,0,20,0,0.95,many examples have lower label similarity
+Semantic KMeans,worldnews,Topic 5,"Europe, the Middle East, and displacement",20,0.11802957,0.09842293,-0.073409885,0.3542644,0.10527983,16,3,1,20,0,0.8,many examples have lower label similarity

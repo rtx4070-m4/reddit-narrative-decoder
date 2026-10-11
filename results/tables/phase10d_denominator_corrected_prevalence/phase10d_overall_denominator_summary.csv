@@ -1,0 +1,3 @@
+model,phase8_corpus_records,records_in_model_file,records_outside_model_file,records_assigned_to_topic,unassigned_within_model_file,corpus_coverage_pct,assignment_rate_within_model_pct,assigned_records_as_pct_of_corpus
+NMF,4874,4026,848,3838,188,82.6015592942142,95.33035270740189,78.7443578169881
+Semantic_KMeans,4874,4026,848,3874,152,82.6015592942142,96.22454048683556,79.48297086581863

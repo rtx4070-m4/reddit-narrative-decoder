@@ -1,0 +1,7 @@
+metric,value
+both_neutral,816.0
+vader_neutral_transformer_non_neutral,511.0
+vader_non_neutral_transformer_neutral,1025.0
+both_non_neutral,2522.0
+neutral_binary_agreement,0.6848584324989742
+neutral_binary_kappa,0.29070648115391484

@@ -1,0 +1,2 @@
+test,n,chi_square,degrees_of_freedom,p_value,cramers_v,interpretation_note
+Pearson chi-square: agreement vs disagreement by community,4874,11.646177861300004,3,0.008698917791552883,0.04888199775808577,Tests whether observed binary agreement rates vary by community; does not establish classifier accuracy.

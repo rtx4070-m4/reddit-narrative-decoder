@@ -1,0 +1,5 @@
+source,status,rows,unique_ids,date_column,missing_dates,first_date,last_date,detail
+Phase 7J cleaned corpus,MISSING,,,,,,,File not found: results\tables\phase7j_cleaned_documents_audit.csv
+Phase 8 merged observations,READ_OK,4874.0,4874.0,created_utc,0.0,2014-10-31 20:59:42+00:00,2016-02-17 05:41:24+00:00,Columns detected; ID column=record_id
+Phase 7O NMF temporal join,READ_OK,4026.0,4026.0,analysis_date,0.0,2014-10-31 00:00:00+00:00,2016-02-17 00:00:00+00:00,Columns detected; ID column=record_id
+Phase 7O Semantic temporal join,READ_OK,4026.0,4026.0,analysis_date,0.0,2014-10-31 00:00:00+00:00,2016-02-17 00:00:00+00:00,Columns detected; ID column=record_id

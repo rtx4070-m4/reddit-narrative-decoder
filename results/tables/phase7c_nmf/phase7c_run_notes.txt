@@ -1,0 +1,14 @@
+PHASE 7C NMF MODEL COMPARISON
+Input file: results\tables\nmf_document_topics_k8_v2.csv
+Input documents: 4852
+Modelled documents: 4468
+Unmodelled documents: 384
+TF-IDF vocabulary size: 1519
+Candidate K values: [4, 5, 6, 8, 10, 12]
+
+Interpretation cautions:
+- Reconstruction error generally changes with topic count; do not select K from it alone.
+- Top-term diversity is a simple descriptive metric, not a validated coherence score.
+- Inspect representative documents and community distributions before naming topics.
+- Topic labels describe corpus-level text patterns, not individual users or mental states.
+- The topic-specific text is only for this experiment; original text remains unchanged.

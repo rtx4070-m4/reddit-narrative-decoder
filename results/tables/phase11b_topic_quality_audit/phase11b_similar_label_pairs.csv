@@ -1,0 +1,3 @@
+model_a,community_a,topic_a,label_a,model_b,community_b,topic_b,label_b,label_similarity,review_status
+NMF,gaming,Topic 4,Game characters and gameplay reactions,Semantic KMeans,gaming,Topic 2,Game character and narrative reactions,0.816,candidate_for_human_comparison
+NMF,gaming,Topic 5,General gaming discussion and reactions,NMF,worldnews,Topic 4,General news discussion and reactions,0.895,candidate_for_human_comparison

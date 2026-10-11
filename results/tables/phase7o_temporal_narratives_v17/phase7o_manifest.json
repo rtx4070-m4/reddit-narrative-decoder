@@ -1,0 +1,82 @@
+{
+  "phase": "7O corrected",
+  "corpus": "C:\\Users\\TANUJ\\Documents\\reddit_narrative_decoder\\results\\tables\\phase7j_nmf\\phase7j_cleaned_documents_audit.csv",
+  "nmf_assignment_file": "C:\\Users\\TANUJ\\Documents\\reddit_narrative_decoder\\results\\tables\\phase7k_nmf\\phase7k_document_topics.csv",
+  "semantic_assignment_file": "C:\\Users\\TANUJ\\Documents\\reddit_narrative_decoder\\results\\tables\\phase7l_semantic\\phase7l_document_topics.csv",
+  "selected_nmf": {
+    "variant": "unigram_bigram",
+    "k": 5
+  },
+  "selected_semantic": {
+    "k": 5
+  },
+  "audits": [
+    {
+      "model": "NMF",
+      "configuration": "unigram_bigram, K=5",
+      "corpus_rows": 4026,
+      "assignment_rows_selected": 3838,
+      "matched_corpus_rows": 3838,
+      "unassigned_corpus_rows": 188,
+      "assignment_coverage": 0.9533035270740189,
+      "dated_rows": 4026,
+      "start_date": "2014-10-31",
+      "end_date": "2016-02-17",
+      "communities": [
+        "gaming",
+        "science",
+        "todayilearned",
+        "worldnews"
+      ],
+      "months": [
+        "2014-10",
+        "2014-11",
+        "2014-12",
+        "2015-01",
+        "2015-02",
+        "2015-03",
+        "2015-04",
+        "2015-10",
+        "2016-01",
+        "2016-02"
+      ]
+    },
+    {
+      "model": "Semantic_KMeans",
+      "configuration": "K=5",
+      "corpus_rows": 4026,
+      "assignment_rows_selected": 3874,
+      "matched_corpus_rows": 3874,
+      "unassigned_corpus_rows": 152,
+      "assignment_coverage": 0.9622454048683556,
+      "dated_rows": 4026,
+      "start_date": "2014-10-31",
+      "end_date": "2016-02-17",
+      "communities": [
+        "gaming",
+        "science",
+        "todayilearned",
+        "worldnews"
+      ],
+      "months": [
+        "2014-10",
+        "2014-11",
+        "2014-12",
+        "2015-01",
+        "2015-02",
+        "2015-03",
+        "2015-04",
+        "2015-10",
+        "2016-01",
+        "2016-02"
+      ]
+    }
+  ],
+  "interpretation_cautions": [
+    "Only one explicit configuration per model is selected before joining.",
+    "UNASSIGNED rows remain visible and are included in all-corpus denominators.",
+    "Topic labels are model-specific; NMF Topic 1 is not equivalent to semantic Topic 1.",
+    "Monthly proportions are descriptive, not causal.",
+    "Check month-level sample sizes before interpreting changes."
+  ]
+}

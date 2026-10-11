@@ -1,0 +1,18 @@
+PHASE 7B — IMPROVED TF-IDF + NMF
+Documents: 4852
+Vocabulary size: 1533
+Topics: 8
+Random state: 42
+Reconstruction error: 65.54980886
+Iterations: 38
+
+Topic 1: people, know, does, really, time, think, make, great, way, going, world, play, years, mean, actually
+Topic 2: game, want, love, played, play, playing, fun, xcom, title, play game, actually, played game, fallout, dlc, dead
+Topic 3: like, looks, looks like, sounds, sounds like, feel like, just like, nice, feel, yeah, sound, lot, right, coke, look
+Topic 4: just, thing, right, bad, love, just like, actually, reason, filter, ca, way, buy, got, shit, waiting
+Topic 5: fuck, shit, fucking, oh, yeah, holy, going, god, holy shit, til, kill, jesus, lol, piece, kellogg
+Topic 6: good, guy, thing, pretty, jupiter, time, man, ca, job, oh, damn, good thing, work, good job, news
+Topic 7: did, did know, right, wow, read, course, ca, entire, instead, got, edit, cover, knew, expect, article
+Topic 8: wwwyoutubecomwatch, source, video, played, better, guy, song, nice, want, relevant, reminds, iran, man, thread, look
+
+Topics are exploratory word-co-occurrence patterns. Inspect representative documents and compare model quality before assigning final labels.

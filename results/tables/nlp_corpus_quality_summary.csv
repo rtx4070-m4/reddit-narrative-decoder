@@ -1,0 +1,7 @@
+feature,observations,percentage
+very_short,388,7.960607304062371
+long_text,37,0.7591300779647107
+very_long_text,10,0.2051702913418137
+article_like,18,0.3693065244152647
+repeated_text,87,1.7849815346737792
+sentence_boundary,0,0.0

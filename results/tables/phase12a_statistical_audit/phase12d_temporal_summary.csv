@@ -1,0 +1,3 @@
+model,total_rows,unique_record_ids,duplicate_record_id_rows,missing_dates,first_date,last_date,months_with_records,months_in_full_timeline,months_with_zero_records,minimum_monthly_rows,median_monthly_rows,maximum_monthly_rows,rows_in_largest_month,assignment_coverage_overall
+NMF,4026,4026,0,0,2014-10-31,2016-02-17,10,17,7,3,9.0,3899,3899,0.9533035270740189
+Semantic K-means,4026,4026,0,0,2014-10-31,2016-02-17,10,17,7,3,9.0,3899,3899,0.9622454048683556

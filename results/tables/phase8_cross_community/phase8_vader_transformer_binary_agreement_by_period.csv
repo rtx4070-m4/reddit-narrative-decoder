@@ -1,0 +1,4 @@
+period,n,agreement_count,observed_agreement,observed_agreement_percent,cohen_kappa,vader_neutral_n,transformer_neutral_n,confusion_matrix_file
+february_2016,4721,3242,0.6867189154840077,68.67189154840077,0.293710778408649,1277,1780,phase8_vader_transformer_binary_confusion_matrix_february_2016.csv
+2016_only,4761,3272,0.6872505776097458,68.72505776097458,0.29332506883949216,1280,1789,phase8_vader_transformer_binary_confusion_matrix_2016_only.csv
+all_years,4874,3338,0.6848584324989742,68.48584324989741,0.29070648115391484,1327,1841,phase8_vader_transformer_binary_confusion_matrix_all_years.csv

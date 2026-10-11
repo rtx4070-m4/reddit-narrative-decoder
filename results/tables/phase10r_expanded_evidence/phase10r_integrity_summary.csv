@@ -1,0 +1,9 @@
+﻿check,value
+input_rows,736
+nonempty_text_rows,736
+empty_text_rows,0
+distinct_groups,40
+groups_with_scored_examples,40
+groups_without_scored_examples,0
+embedding_model,sentence-transformers/all-MiniLM-L6-v2
+similarity_thresholds,"0.20 and 0.35 are exploratory review bands, not validated cutoffs"

@@ -1,0 +1,2 @@
+period,n,observed_agreement,observed_agreement_percent,cohen_kappa,vader_neutral_n,transformer_neutral_n
+all_years,4874,0.6848584324989742,68.48584324989741,0.29070648115391484,1327,1841

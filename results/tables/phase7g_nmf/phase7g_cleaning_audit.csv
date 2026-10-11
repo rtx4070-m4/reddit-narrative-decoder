@@ -1,0 +1,12 @@
+metric,value
+input_rows,4026
+unique_record_community_keys,4026
+eligible_rows_min_3_tokens,3972
+excluded_rows_short_text,54
+unique_cleaned_texts_all_rows,2966
+source_rows_with_autotldr_markers,33
+clean_rows_still_with_autotldr_markers,0
+clean_rows_containing_like,0
+clean_rows_containing_just,0
+clean_rows_containing_know,0
+clean_rows_containing_want,0

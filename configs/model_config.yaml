@@ -1,0 +1,32 @@
+﻿embedding:
+  model_name: sentence-transformers/all-MiniLM-L6-v2
+  device: cuda
+  batch_size: 16
+  normalize_embeddings: true
+
+sentiment:
+  method: vader
+  transformer_model: null
+
+emotion:
+  model_name: j-hartmann/emotion-english-distilroberta-base
+  device: cuda
+  batch_size: 8
+
+topic_modeling:
+  method: bertopic
+  embedding_model: sentence-transformers/all-MiniLM-L6-v2
+  min_topic_size: 20
+
+llm:
+  enabled: false
+  provider: local
+  model_name: null
+  quantization: null
+  max_new_tokens: 256
+  temperature: 0.2
+
+inference:
+  max_length: 256
+  batch_size: 8
+  fp16: true

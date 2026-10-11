@@ -1,0 +1,5 @@
+community,records,unique_normalized_texts,unique_record_ids,records_beyond_unique_texts,duplicate_text_excess_share
+gaming,1684,1666,1684,18,0.010688836104513063
+todayilearned,1373,1362,1373,11,0.008011653313911144
+worldnews,1285,1274,1285,11,0.008560311284046693
+science,532,528,532,4,0.007518796992481203

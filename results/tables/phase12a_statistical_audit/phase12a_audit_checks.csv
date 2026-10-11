@@ -1,0 +1,16 @@
+area,check,status,detail
+Kruskal-Wallis,Source file readable,PASS,"25 rows, 10 columns"
+Kruskal-Wallis,Raw p-values valid,PASS,valid=25/25
+Kruskal-Wallis,Holm p-values valid,PASS,valid=25/25
+Kruskal-Wallis,Epsilon-squared range,PASS,min=0.0005518734992466; max=0.0440595973980218
+Kruskal-Wallis,Significance flags match adjusted p-values,PASS,mismatches=0; saved significant=22; recomputed=22
+Pairwise tests,Source file readable,PASS,"150 rows, 15 columns"
+Pairwise tests,Raw and adjusted p-values in range,PASS,rows=150
+Pairwise tests,Holm corrections independently reproduced,PASS,mismatches beyond 1e-8=0; rows=150
+Pairwise tests,Significance flags match adjusted p-values,PASS,mismatches=0; saved significant=91
+nmf_monthly_topic_prevalence.csv,Source file readable,PASS,"36 rows, 8 columns"
+nmf_monthly_topic_prevalence.csv,Shares equal document count / all-corpus monthly total,PASS,checked=36; maximum absolute difference=6.938893903907228e-17
+nmf_monthly_topic_prevalence.csv,One all-corpus denominator per month,PASS,months with inconsistent totals=0
+semantic_kmeans_monthly_topic_prevalence.csv,Source file readable,PASS,"30 rows, 8 columns"
+semantic_kmeans_monthly_topic_prevalence.csv,Shares equal document count / all-corpus monthly total,PASS,checked=30; maximum absolute difference=9.020562075079397e-17
+semantic_kmeans_monthly_topic_prevalence.csv,One all-corpus denominator per month,PASS,months with inconsistent totals=0

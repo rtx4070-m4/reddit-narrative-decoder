@@ -1,0 +1,8 @@
+Phase 7I AutoTLDR source sensitivity experiment
+Input: C:\Users\TANUJ\Documents\reddit_narrative_decoder\results\tables\phase7h_nmf\phase7h_cleaned_documents_audit.csv
+Output: C:\Users\TANUJ\Documents\reddit_narrative_decoder\results\tables\phase7i_nmf
+K values: [5, 6, 8, 10]
+Random state: 42
+Max iterations: 800
+Source-flagged AutoTLDR rows excluded from fitting but retained for transform/assignment.
+TF-IDF/model settings matched Phase 7H where applicable.

@@ -1,0 +1,23 @@
+PHASE 7E NMF — ORIGINAL-TEXT PREPROCESSING
+Master corpus: C:\Users\TANUJ\Documents\reddit_narrative_decoder\data\processed\reddit_master.csv
+Phase 7B reference: C:\Users\TANUJ\Documents\reddit_narrative_decoder\results\tables\nmf_document_topics_k8_v2.csv
+Master rows: 253961
+Master unique key rows after longest-text selection: 253961
+Reference rows: 4852
+Rows without matching original text (before fallback): 0
+Eligible after topic-only cleaning (>= 3 tokens): 4066
+Excluded for short cleaned text: 786
+Eligible but no retained TF-IDF features: 40
+Documents fitted: 4026
+Vocabulary size: 2639
+K: 8
+Iterations: 35
+Reconstruction error: 62.066201
+Random state: 42
+
+Cautions:
+- Original corpus is read-only; all transformations are topic-model-only.
+- Exact stable record_id + community keys are used; Reddit comment id alone is not used.
+- Topics are lexical mixtures and require manual interpretation.
+- Reconstruction error is not directly comparable across different document sets/vocabularies.
+- Check the missing-original-text count and exclusions before interpreting results.

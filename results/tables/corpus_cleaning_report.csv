@@ -1,0 +1,11 @@
+metric,value
+initial_master_rows,253961
+removed_empty_text,0
+removed_short_text,371
+rows_after_text_filter,253590
+source_id_groups,4972
+exact_duplicate_groups,2629
+vote_only_variation_groups,2341
+text_conflict_groups,1
+timestamp_conflict_groups,0
+final_unique_observations,4972

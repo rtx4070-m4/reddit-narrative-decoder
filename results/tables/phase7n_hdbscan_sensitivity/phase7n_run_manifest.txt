@@ -1,0 +1,8 @@
+Phase 7N HDBSCAN sensitivity analysis
+Input: C:\Users\TANUJ\Documents\reddit_narrative_decoder\results\tables\phase7j_nmf\phase7j_cleaned_documents_audit.csv
+Output: C:\Users\TANUJ\Documents\reddit_narrative_decoder\results\tables\phase7n_hdbscan_sensitivity
+Model: sentence-transformers/all-MiniLM-L6-v2
+Device: cuda
+Configurations: [('A_mcs15_ms1', 15, 1), ('B_mcs15_ms3', 15, 3), ('C_mcs30_ms1', 30, 1), ('D_mcs30_ms3', 30, 3), ('E_mcs30_ms5_baseline', 30, 5)]
+Embeddings computed once and reused across configurations. Fit on unique eligible non-AutoTLDR texts; all eligible rows assigned with approximate_predict.
+Cluster label -1 is noise/unassigned, not a substantive topic. Choose based on coverage AND manual coherence review.

@@ -1,0 +1,10 @@
+metric,value
+input_rows,4026
+eligible_rows_min_3_tokens,4017
+excluded_short_rows,9
+source_autotldr_rows_excluded_from_fit,33
+eligible_non_autotldr_rows,3984
+eligible_autotldr_rows_retained_for_transform_only,33
+rows_with_residual_template_hints,40
+rows_with_flattened_url_hints,0
+unique_cleaned_texts_eligible,2960

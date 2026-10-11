@@ -1,0 +1,3 @@
+model,assignment_rows,unique_assignment_ids,duplicate_id_rows,missing_topic_rows,unassigned_rows,rows_matching_phase8,rows_not_matching_phase8,phase8_ids_not_in_model,phase8_total_rows,assignment_row_coverage_of_phase8
+NMF,4026,4026,0,0,188,4026,0,848,4874,0.826015592942142
+Semantic_KMeans,4026,4026,0,0,152,4026,0,848,4874,0.826015592942142

@@ -1,0 +1,8 @@
+Phase 7J longer-comment sensitivity experiment
+Input: C:\Users\TANUJ\Documents\reddit_narrative_decoder\results\tables\phase7i_nmf\phase7i_cleaned_documents_audit.csv
+Output: C:\Users\TANUJ\Documents\reddit_narrative_decoder\results\tables\phase7j_nmf
+Minimum cleaned tokens: 5
+K values: [5, 6]
+Random state: 42
+Max iterations: 800
+AutoTLDR source-flagged rows excluded from fit, eligible rows retained for transform.

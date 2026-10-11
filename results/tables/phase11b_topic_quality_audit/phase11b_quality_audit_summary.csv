@@ -1,0 +1,8 @@
+check,value
+topic_groups,40
+missing_labels,0
+short_or_generic_label_candidates,0
+groups_with_exact_duplicate_labels,0
+near_duplicate_label_pairs_similarity_at_least_0.80,2
+do_not_label_groups,5
+batch_approved_groups,39

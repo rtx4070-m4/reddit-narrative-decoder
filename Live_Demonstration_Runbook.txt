@@ -1,0 +1,27 @@
+LIVE DEMONSTRATION RUNBOOK (5–7 minutes)
+
+Before presenting:
+1. Open PowerShell in C:\Users\TANUJ\Documents\reddit_narrative_decoder.
+2. Confirm reddit_narrative_decoder_submission.zip exists.
+3. Open submission_package\reports\consolidated_research_results.md and the final PDF.
+4. Do not run the complete model pipeline live.
+
+Sequence:
+1. Project structure (30 sec): show src, results, submission_package, and ZIP.
+2. Main results (90 sec): open consolidated_research_results.md; point out Phase 8 n=4,874, agreement metrics, statistical tests, and limitations.
+3. Statistical reproducibility (60 sec): open phase12b_kruskal_reproduction.csv and phase12c_pairwise_reproduction.csv; show all 25 omnibus and all 150 pairwise checks passed.
+4. Topic audit (60 sec): open phase11a_consolidated_topic_dictionary.csv; filter log_decision for do_not_label.
+5. Temporal audit (60 sec): open phase12d_temporal_audit_report.md; explain 3,899/4,026 records (96.85%) fall in February 2016.
+6. Finish (30 sec): open the final PDF and summarize the limitations.
+
+If asked about the 848-record difference:
+"Phase 8 contains 4,874 records, while the topic-modeling corpus contains 4,026. We identified and documented the difference. We have not silently merged or altered the datasets; the discrepancy remains a limitation requiring further upstream review."
+
+If asked whether emotion predictions are correct:
+"VADER and transformer outputs are algorithmic estimates. We measured agreement; neither is treated as ground truth."
+
+If asked about temporal evolution:
+"The temporal corpus is highly imbalanced, with 96.85% of records in February 2016. We therefore do not claim robust continuous month-to-month narrative evolution."
+
+If asked whether topic labels were human validated:
+"The dictionary underwent automated quality checks and batch recommendation approval. Independent example-by-example validation is incomplete; five groups remain do_not_label."

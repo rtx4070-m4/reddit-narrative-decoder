@@ -1,0 +1,10 @@
+﻿check,value
+example_rows,736
+unique_example_record_keys,40
+group_rows,40
+unique_group_keys,40
+groups_with_examples,40
+groups_without_examples,0
+identified_text_column,review_text
+examples_with_empty_text,0
+suggestions_missing,0
